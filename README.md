@@ -1,3 +1,4 @@
+[![Benchmark & Parity](https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/actions/workflows/benchmark.yml/badge.svg)](https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/actions/workflows/benchmark.yml)
 # EVM Scope Compression Benchmark: Uniswap v3 Pool
 
 Commercial smart contract audit firms quote scoping proposals based on **Normalized Source Lines of Code (nSLOC)**—the raw executable code lines measured by tools like `cloc` or `scc` (excluding comments and whitespace). The standard industry pricing model is simple:
