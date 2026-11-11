@@ -1,0 +1,8 @@
+{
+  "name": "evm-sloc-compression-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "benchmark": "node scripts/benchmark.js",
+    "test:differential": "forge test --match-contract PoolDifferentialTest -vv"
+  }
+}
